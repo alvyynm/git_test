@@ -1,1 +1,1 @@
-This is ALvin’s first git project!
+This is Alvin’s first git project!
